@@ -1,0 +1,59 @@
+{
+  "id": "string",
+  "is_approved": true,
+  "approved_at": 0,
+  "generated_at": 0,
+  "employee_id": 1,
+  "personal_info": {
+    "first_name": "string",
+    "last_name": "string",
+    "birth_date": 0,
+    "position": "string"
+  },
+  "professional_summary": "string",
+  "educations": [
+    {
+      "degree": "string",
+      "university_name": "string",
+      "specialization": "string",
+      "start_year": 0,
+      "finish_year": 0
+    }
+  ],
+  "contact_info": {
+    "phone": "string",
+    "email": "string",
+    "links": [
+      "string"
+    ]
+  },
+  "experience": [
+    {
+      "started_at": 0,
+      "ended_at": 0,
+      "project_name": "string",
+      "project_description": "string",
+      "role": "string",
+      "customer_name": "string",
+      "customer_domain": "string",
+      "technologies": [
+        "string"
+      ],
+      "responsibilities": "string"
+    }
+  ],
+  "skill_group": [
+    {
+      "skill_type": "string",
+      "skills": [
+        "string"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "string",
+      "expiration_date": 0
+    }
+  ]
+}
